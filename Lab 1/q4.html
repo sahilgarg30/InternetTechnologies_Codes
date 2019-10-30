@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html> 
+<body>
+<h1 id="heading">Department Details</h1>
+<center>
+<form name="dept">
+Name<input type="text" id="name" name="name"/>
+<br/>
+
+Code:<input type="number" id="code">
+<br/>
+Number of students : <input type="number" id="students"/>
+<br/>
+Number of professors : <input type="number" id="profs"/>
+<br/>
+
+Current batch : <input type="number" id="batch" min="2016" max="2025" step="1" value="2016">
+<br/>
+
+<input type="submit" onclick="disp();">
+</form>
+<center>
+<script>
+function disp()
+{
+	var obj=document.getElementById("name").value;
+	var t=document.getElementById("code").value;
+	var s=document.getElementById("students").value;
+	var d=document.getElementById("profs").value;
+	alert("The department "+obj+" with code "+t+" has "+s+" students and "+d+" professors.");
+	
+}
+</script>
+
+</body>
+</html>

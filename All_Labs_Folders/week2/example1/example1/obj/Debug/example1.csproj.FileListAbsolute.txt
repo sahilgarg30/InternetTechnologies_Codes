@@ -1,0 +1,6 @@
+C:\sahil_garg_160905058\week2\example1\example1\bin\Debug\example1.exe.config
+C:\sahil_garg_160905058\week2\example1\example1\bin\Debug\example1.exe
+C:\sahil_garg_160905058\week2\example1\example1\bin\Debug\example1.pdb
+C:\sahil_garg_160905058\week2\example1\example1\obj\Debug\example1.csprojResolveAssemblyReference.cache
+C:\sahil_garg_160905058\week2\example1\example1\obj\Debug\example1.exe
+C:\sahil_garg_160905058\week2\example1\example1\obj\Debug\example1.pdb

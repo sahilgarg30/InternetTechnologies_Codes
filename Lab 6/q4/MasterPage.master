@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <link rel="stylesheet" type="text/css" href="~/StyleSheet.css">
+    <form id="form1" runat="server">
+    
+
+        <asp:Label ID="Label1" runat="server" Text="Header"></asp:Label>
+        <br />
+         <asp:Label ID="Label3" runat="server" Text="Mobile phone"></asp:Label>
+        <div class="label">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        </div>
+            <asp:Label ID="Label2" runat="server" Text="Footer"></asp:Label>
+    </form>
+</body>
+</html>

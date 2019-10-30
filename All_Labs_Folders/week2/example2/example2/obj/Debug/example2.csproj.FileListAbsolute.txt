@@ -1,0 +1,9 @@
+C:\sahil_garg_160905058\week2\example2\example2\bin\Debug\example2.exe.config
+C:\sahil_garg_160905058\week2\example2\example2\bin\Debug\example2.exe
+C:\sahil_garg_160905058\week2\example2\example2\bin\Debug\example2.pdb
+C:\sahil_garg_160905058\week2\example2\example2\obj\Debug\example2.csprojResolveAssemblyReference.cache
+C:\sahil_garg_160905058\week2\example2\example2\obj\Debug\example2.Form1.resources
+C:\sahil_garg_160905058\week2\example2\example2\obj\Debug\example2.Properties.Resources.resources
+C:\sahil_garg_160905058\week2\example2\example2\obj\Debug\example2.csproj.GenerateResource.Cache
+C:\sahil_garg_160905058\week2\example2\example2\obj\Debug\example2.exe
+C:\sahil_garg_160905058\week2\example2\example2\obj\Debug\example2.pdb

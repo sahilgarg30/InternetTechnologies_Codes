@@ -1,0 +1,25 @@
+<!DOCTYPE html> 
+<html> 
+<body>
+<h1 id="hour"></h1>
+<h1 id="greeting"></h1>
+<script>
+	function greet(){
+		var d= new Date();
+		var obj=document.getElementById("hour");
+		var h=d.getHours();
+		obj.innerHTML = d;
+		var obj2=document.getElementById("greeting");
+		if(h<12)
+		obj2.innerHTML = "Good Morning";
+		else if(h<14)
+		obj2.innerHTML = "Good Afternoon";
+		else if(h<18)
+		obj2.innerHTML = "Good Evening";
+		else
+		obj2.innerHTML = "Good Night";	
+	}
+	setInterval(greet,1000);
+</script>
+</body>
+</html>

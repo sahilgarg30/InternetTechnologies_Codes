@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Label ID="Label1" runat="server" Text="Amazon&lt;br/&gt; Contact Details - 123456789"></asp:Label>
+        <asp:Image ID="Image1" runat="server" Height="149px" Width="238px" ImageUrl="~/amazon.jpg" />
+        <br />
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/q2p1.aspx">Electronics</asp:HyperLink>
+        <br />
+        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/q2p2.aspx">Baggages</asp:HyperLink>
+        <br /><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/q2p3.aspx">Offers</asp:HyperLink>
+        <br />
+        <div >
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server" >
+        </asp:ContentPlaceHolder>
+        </div>
+        </div>
+    </form>
+</body>
+</html>

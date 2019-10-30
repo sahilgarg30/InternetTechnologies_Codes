@@ -1,0 +1,6 @@
+C:\sahil_garg_160905058\week3\q2\q2\bin\Debug\q2.exe.config
+C:\sahil_garg_160905058\week3\q2\q2\bin\Debug\q2.exe
+C:\sahil_garg_160905058\week3\q2\q2\bin\Debug\q2.pdb
+C:\sahil_garg_160905058\week3\q2\q2\obj\Debug\q2.csprojResolveAssemblyReference.cache
+C:\sahil_garg_160905058\week3\q2\q2\obj\Debug\q2.exe
+C:\sahil_garg_160905058\week3\q2\q2\obj\Debug\q2.pdb
